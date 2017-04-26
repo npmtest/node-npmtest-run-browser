@@ -1,6 +1,6 @@
 # npmtest-run-browser
 
-#### test coverage for  [run-browser (v2.0.2)](https://github.com/ForbesLindesay/run-browser)  [![npm package](https://img.shields.io/npm/v/npmtest-run-browser.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-run-browser) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-run-browser.svg)](https://travis-ci.org/npmtest/node-npmtest-run-browser)
+#### basic test coverage for  [run-browser (v2.0.2)](https://github.com/ForbesLindesay/run-browser)  [![npm package](https://img.shields.io/npm/v/npmtest-run-browser.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-run-browser) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-run-browser.svg)](https://travis-ci.org/npmtest/node-npmtest-run-browser)
 
 #### The simplest way to run testling type tests in the browser
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-run-browser/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-run-browser/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-run-browser/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-run-browser/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-run-browser/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-run-browser/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-run-browser/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-run-browser/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-run-browser/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-run-browser/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-run-browser/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-run-browser/build/coverage.html/index.html)
 
